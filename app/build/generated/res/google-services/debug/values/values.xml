@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">228340063355-ege8bqppi095t2smv44runm4askb6729.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">228340063355</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZp69spqv-wc8htFMwDFYpjm9pX_73WaQ</string>
+    <string name="google_app_id" translatable="false">1:228340063355:android:813c6220faf2f6ed22d6de</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZp69spqv-wc8htFMwDFYpjm9pX_73WaQ</string>
+    <string name="google_storage_bucket" translatable="false">music-player-2023-3ca17.appspot.com</string>
+    <string name="project_id" translatable="false">music-player-2023-3ca17</string>
+</resources>
